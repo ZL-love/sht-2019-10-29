@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/account/account.iml" filepath="$PROJECT_DIR$/account/account.iml" />
+      <module fileurl="file://$PROJECT_DIR$/commodity/commodity.iml" filepath="$PROJECT_DIR$/commodity/commodity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/customer/customer.iml" filepath="$PROJECT_DIR$/customer/customer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/order/order.iml" filepath="$PROJECT_DIR$/order/order.iml" />
+      <module fileurl="file://$PROJECT_DIR$/server/server.iml" filepath="$PROJECT_DIR$/server/server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/sht.iml" filepath="$PROJECT_DIR$/.idea/sht.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spareserver/spareserver.iml" filepath="$PROJECT_DIR$/spareserver/spareserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/user/user.iml" filepath="$PROJECT_DIR$/user/user.iml" />
+    </modules>
+  </component>
+</project>
